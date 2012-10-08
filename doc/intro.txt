@@ -1,0 +1,2 @@
+Scala เป็นภาษา programming ในแบบ Object-Orinted และ Functional 
+บอกแบบมาเพื่อ อธิบาย common programming patterns(?) ในวิถีทางของ concise, elegant และ type-safe

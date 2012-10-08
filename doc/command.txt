@@ -1,0 +1,8 @@
+#Compile
+scalac src/HelloWorld.scala -d classes
+
+#Run
+scala -classpath classes HelloWorld
+
+#Run
+scala src/HelloWorld.scala
